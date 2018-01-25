@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Stroys>
+    <Stroy
+        name="太乙真人"
+        mainstroyflag="主线"
+        chapter="1"
+        progress="0"
+         >
+        <StroyInfo>诸位上仙大驾聚此，为我徒儿哪吒之事而来，我真的是很感谢各位。</StroyInfo>
+        <HeadUrl>spirit/npc/xianren/1952-ca3334ff-00000.png</HeadUrl>
+        <Todo>点击继续</Todo>
+    </Stroy>
+    <Stroy
+        name="赤脚大仙"
+        mainstroyflag="主线"
+        chapter="1"
+        progress="0" >
+        <StroyInfo>呵呵，太乙真君不要客气了，说正题吧。</StroyInfo>
+        <HeadUrl>spirit/npc/chijiaodaxian/0329-2073f650-00000.png</HeadUrl>
+        <Todo>点击继续</Todo>
+    </Stroy>
+    <Stroy
+        name="清虚真君"
+        mainstroyflag="主线"
+        chapter="1"
+        progress="0" >
+        <StroyInfo>哪吒已割肉还母，剔骨还父，还了父精母血，其灵魂已被太乙真君收回，不过万法轮回，想要令哪吒重复真身，需要地狱深处的焚火华莲，太乙真君有何方法取得？</StroyInfo>
+        <HeadUrl>spirit/npc/qingxuzhenjun/0352-22406e66-00000.png</HeadUrl>
+        <Todo>点击继续</Todo>
+    </Stroy>
+    <Stroy
+        name="太乙真人"
+        mainstroyflag="主线"
+        chapter="1"
+        progress="0" >
+        <StroyInfo>我可以用焚火华莲当做哪吒新的肉身，使其重生，焚火华莲在十八层地狱深处，此行需要哪吒灵魂亲自寻找，此行历练必定艰辛万难，所以请了各位上仙前来帮助。</StroyInfo>
+        <HeadUrl>spirit/npc/xianren/1952-ca3334ff-00000.png</HeadUrl>
+        <Todo>点击继续</Todo>
+    </Stroy>
+    <Stroy
+        name="太乙真人"
+        mainstroyflag="主线"
+        chapter="1"
+        progress="0"
+         >
+        <StroyInfo>据说太上老君和清虚真人门下均有得意弟子，他们都天神神力，技艺霏凡，但是没有历练的机会，此行可否唤来助我徒儿走这一趟？</StroyInfo>
+        <HeadUrl>spirit/npc/xianren/1952-ca3334ff-00000.png</HeadUrl>
+        <Todo>点击继续</Todo>
+    </Stroy>
+    <Stroy
+        name="太上老君"
+        mainstroyflag="主线"
+        chapter="1"
+        progress="0" >
+        <StroyInfo>我徒儿随我学艺已不少时间了，我这就唤他来此由你任命差遣。</StroyInfo>
+        <HeadUrl>spirit/npc/taishanglaojun/0533-3599d5c3-00000.png</HeadUrl>
+        <Todo>点击继续</Todo>
+    </Stroy>
+    <Stroy
+        name="清虚真君"
+        mainstroyflag="主线"
+        chapter="1"
+        progress="1" >
+        <StroyInfo>我也即可唤我徒儿来此地。呔……</StroyInfo>
+        <HeadUrl>spirit/npc/qingxuzhenjun/0352-22406e66-00000.png</HeadUrl>
+        <Todo>完成对话</Todo>
+    </Stroy>
+    <Stroy
+        name="太乙真人"
+        mainstroyflag="主线" 
+        chapter="1"
+        progress="1">
+        <StroyInfo>好的。</StroyInfo>
+        <HeadUrl>spirit/npc/xianren/1952-ca3334ff-00000.png</HeadUrl>
+        <Todo>点击继续</Todo>
+    </Stroy>
+</Stroys>

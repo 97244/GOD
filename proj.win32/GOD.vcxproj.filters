@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="win32">
+      <UniqueIdentifier>{84a8ebd7-7cf0-47f6-b75e-d441df67da40}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="resource">
+      <UniqueIdentifier>{715254bc-d70b-4ec5-bf29-467dd3ace079}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{bb6c862e-70e9-49d9-81b7-3829a6f50471}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录">
+      <UniqueIdentifier>{607b12ee-9e7c-4a4b-bb2e-ce298faf45ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\场景">
+      <UniqueIdentifier>{1cb81889-fd0b-4f81-b094-5a7b9a2404c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具">
+      <UniqueIdentifier>{6c5b3559-a23f-4810-b559-7533d7fde5d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具\Win32UTF-8">
+      <UniqueIdentifier>{3259907c-dc2f-4bba-97bb-174110994f01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\场景\登录场景">
+      <UniqueIdentifier>{c86e239a-3347-443f-963b-e2e76c7a24ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\特效">
+      <UniqueIdentifier>{762132fc-6ead-49de-b9c5-d9b40185dbd2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\游戏数据">
+      <UniqueIdentifier>{1508c9b3-3355-4796-b92c-1c98cd6d3f06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\场景管理器">
+      <UniqueIdentifier>{c7828e4b-7975-493e-a7b8-a9b0be5c0921}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\场景\主场景">
+      <UniqueIdentifier>{5bead213-ff37-4abc-8450-2ffd0c77718d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\故事会话">
+      <UniqueIdentifier>{9fbcf05b-c1f2-4264-9dea-337c9dcfc0a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\场景\创建人物">
+      <UniqueIdentifier>{ddab6d66-94c8-434c-867a-e44db953e46a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\地图设置">
+      <UniqueIdentifier>{ec59b7a7-0e4b-48da-8a56-b5fa43eef98f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\实体">
+      <UniqueIdentifier>{89508fc0-0832-4ecf-8228-47e4982f3f7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\实体\怪物">
+      <UniqueIdentifier>{4a6224b7-34fb-48a2-84ee-e3c45e3c927e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\实体\英雄">
+      <UniqueIdentifier>{3dd93432-7507-46d0-91a9-0f46e0ccc40b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具\全局资源">
+      <UniqueIdentifier>{cdeda546-3aad-4ec3-b64a-800e34880b20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具\全局数据">
+      <UniqueIdentifier>{55c2b6e4-c9e2-4e2a-a2c9-4bdd19549af4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\UI">
+      <UniqueIdentifier>{80fc41ce-d508-40b8-a24e-86603bc33ad9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具\全局动作">
+      <UniqueIdentifier>{96500cf9-e3bb-4405-898f-4f880ec1b45a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具\全局方向">
+      <UniqueIdentifier>{88a2661d-04a4-4215-b7ac-b01e2fce1f98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\场景\战斗场景">
+      <UniqueIdentifier>{0ab28d16-4974-4a2e-a581-99ad6ccfe8c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具\攻击数字">
+      <UniqueIdentifier>{2bcdc677-8901-42e9-a318-2b95c90a2d1e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具\文件操作">
+      <UniqueIdentifier>{f1d347c3-e72c-4e86-880f-844c84e1b2a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\攻击">
+      <UniqueIdentifier>{8a55b7a4-aa1c-4035-bc1c-87afe98b14d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="封神录\全局工具\窗口初始化">
+      <UniqueIdentifier>{ac227518-1f00-492e-a349-19e73fc09180}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>win32</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameMain.cpp">
+      <Filter>封神录\场景\主场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MapsBase.cpp">
+      <Filter>封神录\地图设置</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GetNPCData.cpp">
+      <Filter>封神录\游戏数据</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\EffectsCommen.cpp">
+      <Filter>封神录\特效</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TipsForStory.cpp">
+      <Filter>封神录\故事会话</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Maps_Diyu.cpp">
+      <Filter>封神录\地图设置</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SkillEffects.cpp">
+      <Filter>封神录\特效</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\LoginScenes.cpp">
+      <Filter>封神录\场景\登录场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SelectRole.cpp">
+      <Filter>封神录\场景\创建人物</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FontChina.cpp">
+      <Filter>封神录\全局工具\Win32UTF-8</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SpiritsMonster.cpp">
+      <Filter>封神录\实体\怪物</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SpiritsPlayer.cpp">
+      <Filter>封神录\实体\英雄</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\BaseUI.cpp">
+      <Filter>封神录\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PublicShowUI.cpp">
+      <Filter>封神录\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Scene_Diyu.cpp">
+      <Filter>封神录\场景\战斗场景</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\MakeNumbers.cpp">
+      <Filter>封神录\全局工具\攻击数字</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\PublicCommen.cpp">
+      <Filter>封神录\全局工具\文件操作</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\FDPixelSprite.cpp">
+      <Filter>封神录\攻击</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\SceneManager.cpp">
+      <Filter>封神录\场景管理器</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h">
+      <Filter>win32</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameMain.h">
+      <Filter>封神录\场景\主场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MapsBase.h">
+      <Filter>封神录\地图设置</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MainRoledata.h">
+      <Filter>封神录\游戏数据</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GetNPCData.h">
+      <Filter>封神录\游戏数据</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\EffectsCommen.h">
+      <Filter>封神录\特效</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TipsForStory.h">
+      <Filter>封神录\故事会话</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Maps_Diyu.h">
+      <Filter>封神录\地图设置</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SkillEffects.h">
+      <Filter>封神录\特效</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\LoginScenes.h">
+      <Filter>封神录\场景\登录场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SelectRole.h">
+      <Filter>封神录\场景\创建人物</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FontChina.h">
+      <Filter>封神录\全局工具\Win32UTF-8</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SpiritsMonster.h">
+      <Filter>封神录\实体\怪物</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SpiritsPlayer.h">
+      <Filter>封神录\实体\英雄</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ImagePaths.h">
+      <Filter>封神录\全局工具\全局资源</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\bianl.h">
+      <Filter>封神录\全局工具\全局数据</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\BaseUI.h">
+      <Filter>封神录\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Commen_ActionToDo.h">
+      <Filter>封神录\全局工具\全局动作</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Commen_Direction.h">
+      <Filter>封神录\全局工具\全局方向</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PublicShowUI.h">
+      <Filter>封神录\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Scene_Diyu.h">
+      <Filter>封神录\场景\战斗场景</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\MakeNumbers.h">
+      <Filter>封神录\全局工具\攻击数字</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\PublicCommen.h">
+      <Filter>封神录\全局工具\文件操作</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\FDPixelSprite.h">
+      <Filter>封神录\攻击</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\AppMacros.h">
+      <Filter>封神录\全局工具\窗口初始化</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\SceneManager.h">
+      <Filter>封神录\场景管理器</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="game.rc">
+      <Filter>resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
